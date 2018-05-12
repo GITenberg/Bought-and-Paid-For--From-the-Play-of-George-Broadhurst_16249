@@ -1,0 +1,32 @@
+_repo: Bought-and-Paid-For--From-the-Play-of-George-Broadhurst_16249
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Broadhurst, George Howells
+    birthdate: 1866
+    deathdate: 1952
+    gutenberg_agent_id: '32888'
+    url: http://www.gutenberg.org/2009/agents/32888
+  - agent_name: Hornblow, Arthur
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '6570'
+    url: http://www.gutenberg.org/2009/agents/6570
+description: ''
+gutenberg_issued: '2005-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16249'
+  lccn: '12004139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PS'
+title: Bought and Paid For; From the Play of George Broadhurst
+url: http://www.gutenberg.org/ebooks/16249
